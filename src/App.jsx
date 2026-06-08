@@ -5,7 +5,7 @@ import ArticlePage from "./ArticlePage";
 import AdminPage from "./AdminPage";
 import LoginPage      from "./LoginPage";
 import ProgramPage from "./ProgramPage";
-import MitraPage from "./MitraPage";
+import MitraPage from "./Mitrapage";
 import AdminDashboard from "./AdminDashboard";
 import AdminArtikel from "./AdminArtikel";
 import React from 'react';
